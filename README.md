@@ -23,5 +23,3 @@ This project focuses on understanding CSS animations and keyframes.
 - Creating smooth infinite animations
 - Structuring HTML and CSS properly
 
-## 📂 Project Structure
-
